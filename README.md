@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 
-[![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim)](https://github.com/anuraghazra/github-readme-stats)
+[![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
+![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim&show_icons=true)
+![ENEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
 
 
 <!--
