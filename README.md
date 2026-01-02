@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-[![EMEM-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?EMEM-Kim=anuraghazra)](https://github.com/EMEM-Kim)]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
 
 
 <!--
