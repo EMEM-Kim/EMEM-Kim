@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 
-[![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
-![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim&show_icons=true)
-![ENEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=0000FF&text=Hello%20World!)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20EMEM%20GitHub)
+![Git](https://img.shields.io/badge/Git-80B3FF?style=flat-square&logo=Go&logoColor=white)
 
 <!--
 **EMEM-Kim/EMEM-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
+![EMEM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim&show_icons=true)
+![ENEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMEM-Kim&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMEM-Kim)](https://github.com/EMEM-Kim/github-readme-stats)
 -->
