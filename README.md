@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+[![EMEM-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?EMEM-Kim=anuraghazra)](https://github.com/EMEM-Kim)]
+
+
+
 <!--
 **EMEM-Kim/EMEM-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
