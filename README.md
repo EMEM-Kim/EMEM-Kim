@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0000FF&text=Hello%20World!)
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20EMEM%20GitHub)
-![Git](https://img.shields.io/badge/Git-80B3FF?style=flat-square&logo=Go&logoColor=white)
+## 🛠 Tech Stack
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **EMEM-Kim/EMEM-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
